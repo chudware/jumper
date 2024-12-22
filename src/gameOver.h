@@ -1,0 +1,12 @@
+gameOver(){
+    printf("\n=======");
+    printf("\nGAME");
+    printf("\nOVER");
+    printf("\nPRESS");
+    printf("\n'X'");
+    printf("\nTO");
+    printf("\nSTART");
+    printf("\nOVER");
+    printf("\n=======");
+    jumpSound();
+}

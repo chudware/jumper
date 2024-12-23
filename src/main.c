@@ -58,7 +58,7 @@ void main(void)
         if ((joypad() & J_A) || jumping == 1)
         {
             jump(0, playerlocation);
-            “jumpSound();
+            jumpSound();
         }
         performantdelay(2);
     }
